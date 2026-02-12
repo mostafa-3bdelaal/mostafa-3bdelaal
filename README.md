@@ -37,7 +37,7 @@ Skilled in **Python**, **Machine Learning**, **Deep Learning**, and **Data Analy
 
 ## 📜 Certifications
 
-AI & Data Science ——  INSTANT Center ——  2025    
-Programming Fundamentals with C++ ——  Route Academy ——  2024     
-Excel for Data Analysis —— Udemy —— 2024     
+- AI & Data Science                  —  INSTANT Center  — 2025    
+- Programming Fundamentals with C++  —  Route Academy   — 2024     
+- Excel for Data Analysis            — Udemy            — 2024     
 
