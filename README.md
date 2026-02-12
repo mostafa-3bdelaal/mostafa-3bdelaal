@@ -44,6 +44,6 @@ Skilled in **Python**, **Machine Learning**, **Deep Learning**, and **Data Analy
 ---
 
 ## 🎓 Education
-Bachelor’s Degree in Artificial Intelligence
-Arab Open University (AOU), Cairo
-📅 Expected Graduation: July, 2027
+Bachelor’s Degree in Artificial Intelligence   
+Arab Open University (AOU), Cairo   
+📅 Expected Graduation: July, 2027   
