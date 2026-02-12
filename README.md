@@ -9,7 +9,7 @@ Skilled in **Python**, **Machine Learning**, **Deep Learning**, and **Data Analy
 
 ---
 
-🛠️ **Technical Skills**
+## 🛠️ Technical Skills
 
 👨‍💻 **Programming Languages**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -26,7 +26,7 @@ Skilled in **Python**, **Machine Learning**, **Deep Learning**, and **Data Analy
 
 ----
 
-📂 **Projects**
+## 📂 Projects
 - 🤖 **AI & Computer Vision Projects** — Developing ML models and computer vision solutions
 - 🧠 **Machine Learning Models** — Predictive models using Python & scikit-learn
 - 💻 **Web Scraping Automation** — Collecting and analyzing data from websites
