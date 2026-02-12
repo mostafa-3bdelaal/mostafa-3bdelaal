@@ -10,16 +10,15 @@ Skilled in **Python**, **Machine Learning**, **Deep Learning**, and **Data Analy
 ---
 🛠️ **Technical Skills**
 
-👨‍💻 **Programming Languages**
-[Python](https://www.python.org/) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+👨‍💻 **Programming Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-C++ ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-SQL ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-🤖 **AI & ML Skills**
-NLP ![NLP](https://img.shields.io/badge/-NLP-FF6F61?style=for-the-badge)
-Computer Vision ![CV](https://img.shields.io/badge/-Computer_Vision-FF6F61?style=for-the-badge)
-Machine Learning ![ML](https://img.shields.io/badge/-Machine_Learning-4B8BBE?style=for-the-badge)
-Deep Learning ![DL](https://img.shields.io/badge/-Deep_Learning-FF6F61?style=for-the-badge)
-TensorFlow ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+🤖 **AI & ML Skills**  
+![NLP](https://img.shields.io/badge/-NLP-FF6F61?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/-Computer_Vision-FF6F61?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-4B8BBE?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/-Deep_Learning-FF6F61?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
