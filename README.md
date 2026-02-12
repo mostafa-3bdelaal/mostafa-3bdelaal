@@ -12,8 +12,9 @@ Skilled in **Python**, **Machine Learning**, **Deep Learning**, and **Data Analy
 
 👨‍💻 **Programming Languages**
 [Python](https://www.python.org/) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 C++ ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-Java ![Java](https://img.shields.io/badge/-Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)
+
 SQL ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 🤖 **AI & ML Skills**
@@ -21,5 +22,4 @@ NLP ![NLP](https://img.shields.io/badge/-NLP-FF6F61?style=for-the-badge)
 Computer Vision ![CV](https://img.shields.io/badge/-Computer_Vision-FF6F61?style=for-the-badge)
 Machine Learning ![ML](https://img.shields.io/badge/-Machine_Learning-4B8BBE?style=for-the-badge)
 Deep Learning ![DL](https://img.shields.io/badge/-Deep_Learning-FF6F61?style=for-the-badge)
-PyTorch ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 TensorFlow ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
