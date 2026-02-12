@@ -8,6 +8,7 @@ I'm **Mostafa Ahmed**, a **Junior AI Engineer & Data Scientist** focused on leve
 Skilled in **Python**, **Machine Learning**, **Deep Learning**, and **Data Analysis**, I enjoy turning ideas into working projects — whether personal projects, GitHub experiments, or academic work.  
 
 ---
+
 🛠️ **Technical Skills**
 
 👨‍💻 **Programming Languages**  
@@ -22,3 +23,12 @@ Skilled in **Python**, **Machine Learning**, **Deep Learning**, and **Data Analy
 ![Deep Learning](https://img.shields.io/badge/-Deep_Learning-FF6F61?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+--
+
+📂 **Projects**
+- 🤖 **AI & Computer Vision Projects** — Developing ML models and computer vision solutions
+- 🧠 **Machine Learning Models** — Predictive models using Python & scikit-learn
+- 💻 **Web Scraping Automation** — Collecting and analyzing data from websites
+- 📊 **Data Analysis Projects** — Insights and visualizations from datasets
+- 🏦 **Bank Management System** — C++ application for banking operations
