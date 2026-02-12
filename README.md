@@ -41,3 +41,9 @@ Skilled in **Python**, **Machine Learning**, **Deep Learning**, and **Data Analy
 - Programming Fundamentals with C++   —  Route Academy   — 2024     
 - Excel for Data Analysis             — Udemy            — 2024     
 
+---
+
+## 🎓 Education
+Bachelor’s Degree in Artificial Intelligence
+Arab Open University (AOU), Cairo
+📅 Expected Graduation: July, 2027
